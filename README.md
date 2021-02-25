@@ -1,7 +1,7 @@
 # MySQL and SQLite projects with Flask
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/54184905/109129771-0e93ce00-7762-11eb-9abd-7a776d6b174e.png" />
+  <img src="https://user-images.githubusercontent.com/54184905/109134183-d3e06480-7766-11eb-83b7-f3d44c53ebbd.png" />
 </p>
 
 **Flask:** Flask is a micro web framework written in Python. It is classified as a 
@@ -16,7 +16,7 @@ related tools.
 Applications that use the Flask framework include Pinterest and LinkedIn.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/54184905/109129776-0fc4fb00-7762-11eb-85d3-74dd7d657c3a.png" />
+  <img src="https://user-images.githubusercontent.com/54184905/109134181-d3e06480-7766-11eb-97e8-61ffa4ca040a.png" />
 </p>
 
 **MySQL:** MySQL is an open-source relational database management system (RDBMS). Its 
@@ -31,7 +31,7 @@ storage system, manages users, allows for network access and facilitates testing
 database integrity and creation of backups. 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/54184905/109129778-0fc4fb00-7762-11eb-83b6-6c1620afcf1c.png" />
+  <img src="https://user-images.githubusercontent.com/54184905/109134179-d2af3780-7766-11eb-9b9c-5169fdcea403.png" />
 </p>
 
 **SQLite:** SQLite is a relational database management system (RDBMS) contained in a C
