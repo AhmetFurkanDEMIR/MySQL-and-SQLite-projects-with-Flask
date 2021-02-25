@@ -46,7 +46,7 @@ is not possible.
 
 ## Projects
 
-#### [**demir.ai blog with MSQL**](/demiraiBlog/)
+### [**demir.ai blog with MSQL**](/demiraiBlog/)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54184905/109133486-1d7c7f80-7766-11eb-96ba-dc8d81b2f1f4.png" />
@@ -110,7 +110,7 @@ mysql = MySQL(app)
 
 Deployed version of this application (This site will be disabled on Sunday 23 May 2021): [Link](http://demirai.pythonanywhere.com/)
 
-#### [**Todo app with SQLite**](/FlaskTodoApp/)
+### [**Todo app with SQLite**](/FlaskTodoApp/)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54184905/109133489-1eadac80-7766-11eb-805e-e2c0958f2a06.png" />
