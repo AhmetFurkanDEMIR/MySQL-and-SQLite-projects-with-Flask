@@ -134,4 +134,19 @@ class Todo(db.Model):
     complete = db.Column(db.Boolean)
 ```
 
+Flask database configuration.
+
+
+```python
+app = Flask(__name__)
+
+# sqlite db konumu
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:////mnt/EE6A1EE26A1EA6FD/Python/Flask_Todo_App/todo.db'
+
+# SQLAlchemy ile db baglantisi
+# Artik ORM db (Nesne-İlişkisel Eşleme)
+db = SQLAlchemy(app)
+```
+
 Deployed version of this application (This site will be disabled on Sunday 23 May 2021): [Link](http://todoapp.pythonanywhere.com/)
+
