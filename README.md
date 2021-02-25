@@ -1,8 +1,8 @@
 # MySQL and SQLite projects with Flask
 
-<p align="center">
+[<p align="center">
   <img src="https://user-images.githubusercontent.com/54184905/109134183-d3e06480-7766-11eb-83b7-f3d44c53ebbd.png" />
-</p>
+</p>](https://flask.palletsprojects.com/en/1.1.x/)
 
 **Flask:** Flask is a micro web framework written in Python. It is classified as a 
 microframework because it does not require particular tools or libraries. It has no 
